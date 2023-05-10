@@ -1,0 +1,138 @@
+#+title: Lidt julematematik
+#+subtitle: 
+#+author: 
+#+date: 
+# Themes: beige|black|blood|league|moon|night|serif|simple|sky|solarized|white
+#+reveal_theme: blood
+#+reveal_title_slide: <h2>%t</h2><h3>%s</h3><h4>%a</h4><h4>%d</h4>
+#+reveal_title_slide_background: ./img/julebaggrund.jpg
+#+reveal_default_slide_background: ./img/julebaggrund.jpg
+#+reveal_extra_options:  slideNumber:"c/t",progress:true,transition:"slide",navigationMode:"default",history:false,hash:true
+#+reveal_extra_attr: style="color:orangered"
+#+options: toc:nil num:nil tags:nil timestamp:nil ^:{}
+
+
+* Pakken
+
+Hvad er det laveste antal lige klip, I kan nøjes med for at klippe pakken ud?
+
+#+attr_html: :height 400px
+[[file:img/2021-12-11_22-38-05_screenshot.png]]
+
+#+reveal: split
+#+reveal_html: <div class="column" style="float:left; width: 50%">
+#+attr_html: :height 400px
+[[file:img/2021-12-11_22-38-05_screenshot.png]]
+#+reveal_html: </div>
+
+#+reveal_html: <div class="column" style="color:orangered; float:right; width: 50%">
+#+attr_reveal: :frag (appear)
+- Det kan gøres med færre end 4 lige klip.
+- Fold papiret først.
+- Det kan gøres med bare *et* lige klip.
+#+reveal_html: </div>
+
+
+** Hvordan?
+
+#+begin_export html
+<iframe width="600" height="400" src="https://www.youtube.com/embed/Qttl0VfVw_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+Linket er: https://youtu.be/Qttl0VfVw_E
+
+* Hvad ellers?
+
+#+attr_reveal: :frag (appear)
+- Kan andre former også klippes ud med kun et enkelt lige klip?
+- Hvilke egenskaber, tænker I, at en figur/form skal have, for at den kan klippes ud med kun ét lige klip?
+- Regulær facon?
+- Spejlingssymmetrisk facon?
+- *Alle figurer/former, som består af rette linjer, kan klippes ud med kun ét lige klip, hvis papiret er foldet rigtigt til at starte med.*
+
+  
+* Give it up for Katie Steckles
+
+#+begin_export html
+<iframe width="600" height="400" src="https://www.youtube.com/embed/ZREp1mAPKTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+Linket er: https://youtu.be/ZREp1mAPKTM
+
+* Lidt mere
+Kan I klippe nissehuen og peberkagehuset ud med kun ét lige klip?
+
+#+reveal_html: <div class="column" style="float:left; width: 50%">
+#+attr_html: :height 400px
+[[file:img/2021-12-11_23-02-47_screenshot.png]]
+
+#+reveal_html: </div>
+
+#+reveal_html: <div class="column" style="float:right; width: 50%">
+#+attr_html: :height 400px
+[[file:img/2021-12-11_23-03-24_screenshot.png]]
+
+#+reveal_html: </div>
+
+** Nissehuen
+
+#+begin_export html
+<iframe width="600" height="400" src="https://www.youtube.com/embed/831ifSbTxlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+Linket er: https://youtu.be/831ifSbTxlI
+
+** Peberkagehuset
+
+#+begin_export html
+<iframe width="600" height="400" src="https://www.youtube.com/embed/-VfCnEzXohM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+Linket er: https://youtu.be/-VfCnEzXohM
+* Et juletræ
+
+#+attr_html: :height 500px
+[[file:img/2021-12-11_23-36-00_screenshot.png]]
+
+#+reveal: split
+#+begin_export html
+<iframe width="600" height="400" src="https://www.youtube.com/embed/YT-xO15pVng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+Linket er: https://youtu.be/YT-xO15pVng
+
+* En julestjerne
+
+#+attr_html: :height 400px
+[[./img/stjerne.jpg]]
+
+#+reveal: split
+Katie Steckles viste det faktisk ved 2:50
+#+begin_export html
+<iframe width="600" height="400" src="https://www.youtube.com/embed/ZREp1mAPKTM?t=169" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+* Hvad med Katies alfabet?
+Kan I i fællesskab få skrevet
+
+*Vibenshus Gymnasium*
+
+*Merry Christmas*
+
+#+reveal: split
+https://erikdemaine.org/fonts/simplefoldcut/
+
+#+attr_html: :height 400px
+[[./img/bogstaver.png]]
+
+* Giv den gas
+Hvor meget sejt matematikjulepynt kan I nå at lave og hænge op?
+* Bonus
+#+reveal_html: <div style="font-size: 60%;">
+Matt Parker har også foldet og klippet en flagermus i anledning af halloween.
+
+#+begin_export html
+<iframe width="600" height="400" src="https://www.youtube.com/embed/1K-uEwD0OTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+Linket er: https://youtu.be/1K-uEwD0OTg

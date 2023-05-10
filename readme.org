@@ -1,0 +1,3 @@
+Dette er et repo til en præsentation omkring one cut theorem anvendt til julepynt.
+
+Find præsentationen på: [[https://jacobdebel.github.io/julematematik_fold_og_klip]].
